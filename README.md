@@ -5,7 +5,7 @@
 <p dir="auto">👨‍💻 I’m a <strong>Software engineer</strong></p>
 </li>
 <li>
-<p dir="auto">👨‍💻 I am undergraduate in <strong>Matrouh university</strong></p>
+<p dir="auto">👨‍🎓 Bachelor’s degree in Computer Science – Faculty of Computers and Artificial Intelligence, Matrouh University (Graduated in 2025).</p>
 </li>
 <li>
 <p dir="auto">👨‍💻 Always open to learn <strong>new things</strong></p>
